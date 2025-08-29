@@ -1,5 +1,6 @@
-{
-    "nome": "Bruno",
-    "idade": 30,
-    "cidade": "Bahia"
-}
+modelo,tempo_execucao
+ModeloA,120
+ModeloB,150
+ModeloC,130
+ModeloD,110
+ModeloE,140
