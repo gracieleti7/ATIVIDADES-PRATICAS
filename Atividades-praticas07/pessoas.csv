@@ -1,5 +1,7 @@
-{
-    "nome": "Bruno",
-    "idade": 30,
-    "cidade": "Bahia"
-}
+Nome,Idade,Cidade
+Maria,40,São Paulo
+Tiago,24,Rio de Janeiro
+Carlos,28,Belo Horizonte
+Bruno,35,Curitiba
+Julia,21,Porto Alegre
+Pedro,25,Salvador
